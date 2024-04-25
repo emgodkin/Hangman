@@ -1,3 +1,6 @@
+Assignment for RUST Class. Find a working project and add a detail to enhance the game!
+
+
 ## Hangman
 
 Famous hangman game. Guess the sentence and save hangman life.
