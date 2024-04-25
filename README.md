@@ -1,4 +1,5 @@
-Assignment for RUST Class. Find a working project and add a detail to enhance the game!
+## Assignment for RUST Class. 
+Find a working project and add a detail to enhance the game!
 
 
 ## Hangman
